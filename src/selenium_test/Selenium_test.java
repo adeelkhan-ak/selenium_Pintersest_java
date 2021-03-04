@@ -38,18 +38,18 @@ public class Selenium_test {
 //            driver.findElement(By.xpath("//*[@id=\"__PWS_ROOT__\"]/div[1]/div/div/div/div[1]/div[1]/div[2]/div[2]/button/div")).click();
 //            Thread.sleep(1000);
 //            //email
-//            driver.findElement(By.name("id")).sendKeys("username");
+//            driver.findElement(By.name("id")).sendKeys("username");//user name
 //            driver.findElement(By.name("id")).sendKeys(Keys.ENTER);
 //            Thread.sleep(1000);
 //            //driver.close();
 //            //pass
-//            driver.findElement(By.name("password")).sendKeys("password");
+//            driver.findElement(By.name("password")).sendKeys("password");//pasword
 //            Thread.sleep(2000);
 //            driver.findElement(By.name("password")).sendKeys(Keys.ENTER);
 //            Thread.sleep(2000);
 //
 //            //user
-//            String user = "ak140175";
+//            String user = "username";//username
 //            String url = "https://www.pinterest.com/" + user + "/boards/";
 //            driver.get(url);
 //            driver.get(url);
